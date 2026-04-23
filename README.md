@@ -7,7 +7,6 @@ This project demonstrates a simple AI agent built using Phidata and Groq. It is 
 The goal of this project is to understand the fundamentals of agent-based systems. It shows how to initialize an agent, connect it to a model, and generate output in a structured format.
 
 ## Tech Stack
-
 * Python
 * Phidata
 * Groq API
