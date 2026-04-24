@@ -11,7 +11,6 @@ The goal of this project is to understand the fundamentals of agent-based system
 * Groq API
 
 ## Installation
-
 Install the required dependencies:
 pip install phidata groq python-dotenv
 
