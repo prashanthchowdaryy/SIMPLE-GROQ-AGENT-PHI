@@ -25,7 +25,6 @@ GROQ_API_KEY=your_api_key_here
 Run the script:
 
 python phi_data.py
-
 ## Example
 
 Input:
