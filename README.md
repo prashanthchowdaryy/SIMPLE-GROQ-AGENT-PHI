@@ -1,5 +1,4 @@
 # Groq Basic AI Agent
-
 This project demonstrates a simple AI agent built using Phidata and Groq. It is designed to generate responses to user queries using a large language model.
 
 ## Overview
